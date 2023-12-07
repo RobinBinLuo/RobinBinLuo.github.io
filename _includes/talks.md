@@ -9,7 +9,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Tutorial.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TTHS</abbr>
+    <abbr class="badge">Tutorial</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -26,7 +26,7 @@
 <br>
 
 
-
+<!-- 
 <li>
 <div class="pub-row">
 
@@ -125,7 +125,7 @@
     </div>
   </div>
 </div>
-</li>
+</li> -->
   
 
 </ol>
