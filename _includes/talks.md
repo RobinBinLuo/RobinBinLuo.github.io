@@ -17,7 +17,7 @@
     <div class="author"><strong>Bin Luo</strong></div>
     <div class="periodical"><em>Tutorial of CSCI 2040: Introduction to Python, Oct. 2023.</em></div>
     <div class="links">
-      <a href="assets/files/Anaconda+VSCode+PyCharm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="assets/files/Anaconda+VSCode+PyCharm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">Tutorial</i></strong>
     </div>
   </div>
