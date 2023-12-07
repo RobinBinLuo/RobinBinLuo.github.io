@@ -32,6 +32,6 @@ Prior to joining the Ph.D. program, I received my bachelor's degree from the Sch
 - **Research**
     - <a href="https://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html" target="_blank">*GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL*</a> by <a href="https://www.cs.umd.edu/~oleary/" target="_blank">Dianne Prost O'Leary, Raymond</a>
 - **Books**
-    - <a href="https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/125/suppl/C" target="_blank">*Dynamic Programming and Stochastic Control*</a> edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_black"> Dimitri P. Bertsekas</a>
-    - <a href="https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf" target="_blank">*Quantum Computation and Quantum Information*</a> edited by <a href="https://michaelnielsen.org/qcqi/">Michael A. Nielsen</a>
+    - <a href="https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/125/suppl/C" target="_blank">*Dynamic Programming and Stochastic Control*</a> edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_blank"> Dimitri P. Bertsekas</a>
+    - <a href="https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf" target="_blank">*Quantum Computation and Quantum Information*</a> edited by <a href="https://michaelnielsen.org/" target="_blank">Michael A. Nielsen</a>
 
