@@ -20,31 +20,13 @@ Prior to joining the Ph.D. program, I received my bachelor's degree from the Sch
 - **[June. 2021]** SYSU Outstanding Student First Class Scholarship (Top 5%)
 - **[June. 2020]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
 
-<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
-
-<!-- {% include_relative _includes/talks.md %} -->
-
-
-<!-- 
-## Collaboration
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-<!-- - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
-
-
-<!-- {% include_relative _includes/services.md %} -->
 
 
 ## Resources
 
 # Courses
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
 - <a href="https://staff.ie.cuhk.edu.hk/~xjlin/IERG6120/" target="_blank">*CUHK IERG 6120: Convex and Stochastic Optimization and Applications*</a> by <a href="https://staff.ie.cuhk.edu.hk/~xjlin/">*Professor Xiaojun Lin*</a> 
 - <a href="https://www.coursera.org/learn/information-theory/home/week/1" target="_blank">*CUHK ENGG5301: Information Theory*</a> by <a href="https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/" target="_blank">*Professor YEUNG Wai Ho, Raymond*</a>
 - <a href="https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/" target="_blank">*MIT Open Courseware: Dynamic Programming And Stochastic Control*</a>
