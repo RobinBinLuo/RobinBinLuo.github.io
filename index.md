@@ -26,14 +26,14 @@ Prior to joining the Ph.D. program, I received my bachelor's degree from the Sch
 
 ## Resources
 ### Courses
-- <a href="https://staff.ie.cuhk.edu.hk/~xjlin/IERG6120/" target="_blank">*CUHK IERG 6120: Convex and Stochastic Optimization and Applications*</a> by <a href="https://staff.ie.cuhk.edu.hk/~xjlin/">*Professor Xiaojun Lin*</a> 
-- <a href="https://www.coursera.org/learn/information-theory/home/week/1" target="_blank">*CUHK ENGG 5301: Information Theory*</a> by <a href="https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/" target="_blank">*Professor YEUNG Wai Ho, Raymond*</a>
-- MIT Open Courseware: <a href="https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/" target="_blank">* Dynamic Programming And Stochastic Control*</a>
+- <a href="https://staff.ie.cuhk.edu.hk/~xjlin/IERG6120/" target="_blank">CUHK IERG 6120: Convex and Stochastic Optimization and Applications</a> by <a href="https://staff.ie.cuhk.edu.hk/~xjlin/">*Professor Xiaojun Lin*</a> 
+- <a href="https://www.coursera.org/learn/information-theory/home/week/1" target="_blank">CUHK ENGG 5301: Information Theory</a> by <a href="https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/" target="_blank">*Professor YEUNG Wai Ho, Raymond*</a>
+- MIT Open Courseware: <a href="https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/" target="_blank">Dynamic Programming And Stochastic Control</a>
 
 ### Research
-- <a href="https://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html" target="_blank">*GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL*</a> by <a href="https://www.cs.umd.edu/~oleary/" target="_blank">*Dianne Prost O'Leary, Raymond*</a>
+- <a href="https://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html" target="_blank">GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL</a> by <a href="https://www.cs.umd.edu/~oleary/" target="_blank">*Dianne Prost O'Leary, Raymond*</a>
 
 ### Books
-- <a href="https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/125/suppl/C" target="_blank">*Dynamic Programming and Stochastic Control*</a> Edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_black"> *Dimitri P. Bertsekas*</a>
+- <a href="https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/125/suppl/C" target="_blank">Dynamic Programming and Stochastic Control</a> Edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_black"> *Dimitri P. Bertsekas*</a>
 
 
