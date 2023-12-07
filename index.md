@@ -3,18 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-<!-- working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. --> -->
-
 I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research involves using mathematical tools (Markov chain, Markov decision process and optimization) to develop a model for various protocols in quanutum network and gain insights about them.
 
 Prior to joining the Ph.D. program, I received my bachelor's degree from the School of Mathematics at <a href="https://www.sysu.edu.cn" target = "_blank"> Sun Yat-sen University (SYSU)</a>, majoring in Mathematics and Applied Mathematics. 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-<!-- Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling. -->
 
 
 ## Research Interests
@@ -23,7 +14,6 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 
 ## Awards
-<!-- - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 - **[June. 2023]** Sun Yat-sen University University Outstanding Undergraduate Thesis Award (Top 10% in the university)
 - **[June. 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
 - **[Feb. 2021]** Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world)
@@ -45,7 +35,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
 <!-- - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. --> -->
+- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
 
 
 <!-- {% include_relative _includes/services.md %} -->
