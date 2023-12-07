@@ -23,6 +23,8 @@ Prior to joining the Ph.D. program, I received my bachelor's degree from the Sch
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/talks.md %}
+
 
 ## Resources
 - **Courses**
