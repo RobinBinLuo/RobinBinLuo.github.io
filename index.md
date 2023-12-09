@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research involves using mathematical tools (Markov chain, Markov decision process and optimization) to develop a model for various protocols in quanutum network and gain insights about them.
 
-Prior to joining the Ph.D. program, I received my bachelor's degree from the School of Mathematics at <a href="https://www.sysu.edu.cn" target = "_blank"> Sun Yat-sen University (SYSU)</a>, majoring in Mathematics and Applied Mathematics. 
+Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023 from the School of Mathematics at <a href="https://www.sysu.edu.cn" target = "_blank"> Sun Yat-sen University (SYSU)</a>, majoring in Mathematics and Applied Mathematics. 
 
 
 ## Research Interests
