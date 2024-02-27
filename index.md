@@ -9,7 +9,7 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 
 
 ## Research Interests
-- **Quantum Internet:** quantum switch
+- **Quantum Internet:** quantum switch, quantum Markov decision processes
 - **Optimization:** stochastic optimization, convex optimization
 
 
