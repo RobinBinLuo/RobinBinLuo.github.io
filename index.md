@@ -3,15 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui (ACM Fellow, IEEE Fellow)</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research focuses on employing mathematical methodologies, including Markov chains, Markov decision processes, and optimization techniques, to construct and analyze models for diverse protocols within quantum networks, thereby deriving physically meaningful insights. Additionally, I have a keen interest in exploring the domain of quantum control theory.
+I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui (ACM Fellow, IEEE Fellow)</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research focuses on employing mathematical methodologies, including Markov chains, Markov decision processes, and optimization techniques, to construct and analyze models for diverse protocols within quantum networks, thereby deriving physically meaningful insights. Additionally, I have a keen interest in exploring the domain of quantum reinforcement learning.
 
 Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023 from the School of Mathematics at <a href="https://www.sysu.edu.cn" target = "_blank"> Sun Yat-sen University (SYSU)</a>, majoring in Mathematics and Applied Mathematics. 
 
 
 ## Research Interests
-- **Quantum Control Theory:** quantum Markov decision processes
-- **Quantum Internet:** quantum switch, quantum repeater
-- **Optimization:** stochastic optimization, convex optimization
+- **Quantum Reinforcement Learning:** Quantum Markov Decision Processes
+- **Quantum Internet:** Quantum Switch, Quantum Repeater
+- **Optimization:** Stochastic Optimization, Convex Optimization
 
 
 ## Awards
