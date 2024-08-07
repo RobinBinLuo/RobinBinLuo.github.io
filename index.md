@@ -9,9 +9,9 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 
 
 ## Research Interests
-- <autocolor style="font-weight: bold;">Quantum Algorithms for Speed-ups:</autocolor>&nbsp; Quantum RL, Distributed Quantum Algorithm.
-- **Optimization:**  Hamiltonian, Quantum Adiabatic Optimization, Stochastic Optimization.
-- **Quantum Internet:** Quantum Switch, Quantum Repeater.
+- <a href="https://en.wikipedia.org/wiki/Quantum_algorithm" target="_blank">**Quantum Algorithms for Speed-ups:**</a> Quantum RL, Distributed Quantum Algorithm.
+- <a href="https://en.wikipedia.org/wiki/Adiabatic_quantum_computation" target="_blank">**Optimization:**</a>  Hamiltonian, Quantum Adiabatic Optimization, Stochastic Optimization.
+- <a href="https://qutech.nl/research-engineering/quantum-internet/" target="_blank">**Quantum Internet:**</a> Quantum Switch, Quantum Repeater.
 
 {% include_relative _includes/projects.md %}
 
