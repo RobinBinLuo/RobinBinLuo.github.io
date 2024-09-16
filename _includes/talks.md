@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/Tutorial1_Installing_Python_IDE.pdf" target="_blank">Introduction to Python: A Tutorial on Virtual Environment and IDLE</a></div>
+    <div class="title"><a href="assets/files/Tutorial1_Installing_Python_IDE.pdf" target="_blank">Introduction to Python: A Tutorial on Virtual Environment and IDEs</a></div>
     <div class="author"><strong>Bin Luo, CHUI Yim Pan, LAM King Tin</strong></div>
     <div class="periodical"><em>Tutorial of CSCI 2040: Introduction to Python, Sept. 2024.</em></div>
     <div class="links">
