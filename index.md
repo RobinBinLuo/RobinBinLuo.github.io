@@ -40,6 +40,7 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
     - <a href="https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf" target="_blank">*Quantum Computation and Quantum Information*</a> edited by <a href="https://michaelnielsen.org/" target="_blank">Michael A. Nielsen</a>
     - <a href="https://dspace.mit.edu/handle/1721.1/3719" target="_blank">*Parallel and Distributed Computation:Numerical Methods*</a> edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_blank"> Dimitri P. Bertsekas</a>
     - <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">*Reinforcement Learning: Theory and Algorithms*</a> edited by <a href="https://alekhagarwal.net/" target="_blank"> Alekh Agarwal</a> et al.
+
 ## Teaching Assistantship
 - 2023-2024
     - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank"> Dr. CHUI, Yim Pan </a> 
