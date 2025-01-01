@@ -47,3 +47,4 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
     - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ktlam/" target="_blank"> Dr. LAM, King Tin </a> 
 - 2024-2025
     - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank"> Dr. CHUI, Yim Pan </a> 
+    - CUHK CSCI 5370: <a href="https://xiao-liang.github.io/Resources/Courses/CSCI5370-Spring25.html" target="_blank"> *Quantum Computing* </a> led by <a href="https://xiao-liang.github.io/" target="_blank"> Prof. Xiao Liang </a> 
