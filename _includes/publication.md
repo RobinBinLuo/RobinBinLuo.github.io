@@ -37,11 +37,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/quantum_switch-INFOCOM">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
+    <div class="title"><a href="assets/files/quantum_switch-INFOCOM.pdf">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
     <div class="author"><strong>Bin Luo, Xiaojun Lin, John C.S. Lui</strong></div>
     <div class="periodical"><em>To appear in Proceedings of the IEEE Conference on Computer Communications (INFOCOM) 2025(AR: 272/1458=18.6%)</em></div>
     <div class="links">
-    <a href="assets/files/quantum_switch-INFOCOM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
