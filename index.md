@@ -3,15 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui (ACM Fellow, IEEE Fellow)</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research focuses on employing mathematical methodologies, including Markov decision processes and other optimization techniques, to construct and analyze models for diverse protocols within quantum networks, thereby deriving physically meaningful insights. Additionally, I have a keen interest in exploring the domain of quantum reinforcement learning (RL) and distributed quantum algorithms. 
+I am currently a Ph.D. student at the department of <a href="https://www.cse.cuhk.edu.hk"  target="_blank">Computer Science and Engineering (CSE)</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html"  target="_blank">The Chinese University of Hong Kong (CUHK)</a> under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank">Choh-Ming Li Chair Professor John C.S. Lui (ACM Fellow, IEEE Fellow)</a> in Hong Kong. I am also a member of <a href="http://ansrlab.cse.cuhk.edu.hk"  target="_blank">Advanced Networking and System Research Laboratory (ANSR Lab)</a> led by <a href="http://www.cse.cuhk.edu.hk/~cslui/"  target="_blank"> Professor John C.S. Lui</a>. My research focuses on developing quantum algorithms that are more efficient than classical algorithms and employing these quantum algorithms in a (distributed) quantum networks. 
 
 Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023 from the School of Mathematics at <a href="https://www.sysu.edu.cn" target = "_blank"> Sun Yat-sen University (SYSU)</a>, majoring in Mathematics and Applied Mathematics. 
 
 
 ## Research Interests
-- <a href="https://en.wikipedia.org/wiki/Quantum_algorithm" target="_blank">Quantum Algorithms for Speed-ups:</a> Quantum RL, Distributed Quantum Algorithm.
-- <a href="https://en.wikipedia.org/wiki/Adiabatic_quantum_computation" target="_blank">Quantum Simulation:</a> Hamiltonian Simulation, Quantum Adiabatic Optimization.
-- <a href="https://qutech.nl/research-engineering/quantum-internet/" target="_blank">Quantum Internet:</a> Quantum Switch, Quantum Repeater.
+- <a href="https://en.wikipedia.org/wiki/Quantum_computing" target="_blank">Quantum Computing:</a> (Distributed) Quantum Algorithms, Quantum Circuit.
+- <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">Quantum Information:</a> Quantum Error-Correction Code (QECC).
+- <a href="https://en.wikipedia.org/wiki/Quantum_network" target="_blank">Quantum Internet:</a> Quantum Switch, Quantum Repeater.
 
 {% include_relative _includes/projects.md %}
 
