@@ -13,7 +13,7 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 - <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">Quantum Information:</a> Quantum Error-Correction Code (QECC).
 - <a href="https://en.wikipedia.org/wiki/Quantum_network" target="_blank">Quantum Internet:</a> Quantum Switch, Quantum Repeater.
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/publication.md %}
 
 {% include_relative _includes/talks.md %}
 
