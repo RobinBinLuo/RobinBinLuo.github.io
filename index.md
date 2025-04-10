@@ -18,12 +18,12 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 {% include_relative _includes/talks.md %}
 
 
-## Awards
+## Awards/Grants
+- **[March. 2025]** <a href="https://infocom2025.ieee-infocom.org/authors/student-travel-grant" target="_blank">Student Travel Grant of IEEE INFOCOM</a> sponsored by IEEE Communication Society (ComSoc)
 - **[June. 2023]** Sun Yat-sen University Outstanding Undergraduate Thesis Award (Top 10%)
-- **[June. 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
 - **[Feb. 2021]** Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world)
 - **[June. 2021]** SYSU Outstanding Student First Class Scholarship (Top 5%)
-- **[June. 2020]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
+- **[June. 2020, 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
 
 
 ## Wiki for Quantum Computing
