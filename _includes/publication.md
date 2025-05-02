@@ -34,12 +34,12 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/quantum algorithm for finite-horizon MDP.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/quantum algorithm for finite-horizon MDPs.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Conference paper</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Quantum Algorithms for Finite-horizon Markov Decision Processes</div>
+    <div class="title"><strong><i style="color:#7b5aa6">Quantum Algorithms for Finite-horizon Markov Decision Processes</i></strong></div>
     <div class="author"><strong>Bin Luo, Yuwen Huang, Jonathan Allcock, Shengyu Zhang, Xiaojun Lin, John C.S. Lui</strong></div>
     <div class="periodical"><em>42nd Int. Conf. on Machine Learning (ICML), 2025.</em></div>
     <div class="links">
