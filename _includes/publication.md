@@ -41,7 +41,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong style="color:#702A9D">Quantum Algorithms for Finite-horizon Markov Decision Processes</strong></div>
     <div class="author"><strong>Bin Luo</strong>, Yuwen Huang, Jonathan Allcock, Xiaojun Lin, Shengyu Zhang, John C.S. Lui</div>
-    <div class="periodical"><em>Forty-second International Conference on Machine Learning (ICML), 2025 (AR: 3260/12107=26.3%).</em></div>
+    <div class="periodical"><em>Forty-second International Conference on Machine Learning (ICML), 2025. (AR: 3260/12107=26.3%).</em></div>
     <div class="links">
     <!-- <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
     <strong><i style="color:#702A9D">CCF A</i></strong>
@@ -68,7 +68,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/quantum_switch-INFOCOM.pdf">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
     <div class="author"><strong>Bin Luo</strong>, Xiaojun Lin, John C.S. Lui</div>
-    <div class="periodical"><em>IEEE Conference on Computer Communications (INFOCOM) 2025(AR: 272/1458=18.6%)</em></div>
+    <div class="periodical"><em>IEEE Conference on Computer Communications (INFOCOM), 2025. (AR: 272/1458=18.6%).</em></div>
     <div class="links">
     <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <strong><i style="color:#702A9D">CCF A</i></strong>
