@@ -42,7 +42,7 @@
     <div class="title"><a href='https://icml.cc/Conferences/2025'>Quantum Algorithms for Finite-horizon Markov Decision Processes</a></div>
     <div class="author"><strong>Bin Luo</strong>, Yuwen Huang, Jonathan Allcock, Xiaojun Lin, Shengyu Zhang, John C.S. Lui</div>
     <div class="periodical"><em>Forty-second International Conference on Machine Learning (ICML), 2025. (AR: 3260/12107=26.9%). </em></div>
-    <div class="links"> -->
+    <div class="links">
     <a href="assets/files/ICML_2025_Quantum_Algorithms_for_Finite_horizon_Markov_Decision_Processes (3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PPT</a>
     <!-- <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
     <!-- <strong><i style="color:#702A9D">CCF A</i></strong> -->
