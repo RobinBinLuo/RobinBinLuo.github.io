@@ -9,9 +9,9 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 
 
 ## Research Interests
-- <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">Quantum Information Theory:</a> Quantum Algorithms, Quantum Complexity Theory.
+- <a href="https://en.wikipedia.org/wiki/Quantum_computing" target="_blank">Quantum Computing:</a> Quantum Algorithms, Quantum Complexity Theory.
 - <a href="https://en.wikipedia.org/wiki/Quantum_machine_learning" target="_blank">Quantum Learning Theory:</a> Quantum Machine Learning, Quantum Reinforcement Learning.
-- <a href="https://en.wikipedia.org/wiki/Quantum_network" target="_blank">Quantum Internet:</a> Quantum Switch, Quantum Repeater.
+- <a href="https://en.wikipedia.org/wiki/Quantum_network" target="_blank">Quantum Network:</a> Distributed Quantum Algorithms.
 
 {% include_relative _includes/publication.md %}
 
