@@ -41,10 +41,10 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
     - <a href="https://www.henryyuen.net/classes/spring2022/" target="_blank">Columbia University: Frontiers of Quantum Complexity and Cryptography (2022)</a> by <a href="https://www.henryyuen.net/#about" target="_blank">Henry Yuen</a>
 - **Books/Lecture Notes**
     <!-- - <a href="https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/125/suppl/C" target="_blank">*Dynamic Programming and Stochastic Control*</a> edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_blank"> Dimitri P. Bertsekas</a> -->
-    - <a href="https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf" target="_blank">Quantum Computation and Quantum Information</a> by <a href="https://michaelnielsen.org/" target="_blank">Michael A. Nielsen</a> (One of the best textbooks on quantum computing!!)
+    - <a href="https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf" target="_blank">Quantum Computation and Quantum Information</a> by <a href="https://michaelnielsen.org/" target="_blank">Michael A. Nielsen</a> (One of the best textbooks for beginners in quantum computing!!)
     <!-- - <a href="https://dspace.mit.edu/handle/1721.1/3719" target="_blank">*Parallel and Distributed Computation:Numerical Methods*</a> edited by <a href="https://www.mit.edu/~dimitrib/home.html" target="_blank"> Dimitri P. Bertsekas</a> -->
+    - <a href="https://homepages.cwi.nl/~rdewolf/qcnotes.pdf" target="_blank">Quantum Computing: Lecture Notes</a> by <a href="https://homepages.cwi.nl/~rdewolf/#Courses" target="_blank">Ronald de Wolf</a> (This lecture note is for advanced study.)
     - <a href="https://www.cs.umd.edu/~amchilds/qa/" target="_blank">Lecture Notes on Quantum Algorithms</a> by <a href="https://www.cs.umd.edu/~amchilds/" target="_blank">Andrew Childs</a>
-    - <a href="https://homepages.cwi.nl/~rdewolf/qcnotes.pdf" target="_blank">Quantum Computing: Lecture Notes</a> by <a href="https://homepages.cwi.nl/~rdewolf/#Courses" target="_blank">Ronald de Wolf</a>
     - <a href="https://johnwatrous.com/lecture-notes/" target="_blank">A Series of Lecture Notes</a> by <a href="https://johnwatrous.com/" target="_blank">John Watrous</a>
     <!-- - <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf" target="_blank">Reinforcement Learning: Theory and Algorithms</a> by <a href="https://alekhagarwal.net/" target="_blank"> Alekh Agarwal</a> et al. -->
 - **Research Skills**
