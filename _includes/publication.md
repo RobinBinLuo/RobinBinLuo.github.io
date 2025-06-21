@@ -45,7 +45,7 @@
     <div class="links">
     <a href="assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="assets/files/ICML_2025_Quantum_Algorithms_for_Finite_horizon_Markov_Decision_Processes (3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PPT</a>
-    <!-- <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+    <a href="assets/files/ICML 2025 poster-v3.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">P</a>
     <!-- <strong><i style="color:#702A9D">CCF A</i></strong> -->
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
