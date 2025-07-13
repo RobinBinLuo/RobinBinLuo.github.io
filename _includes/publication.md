@@ -40,7 +40,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href='assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf'>Quantum Algorithms for Finite-horizon Markov Decision Processes</a></div>
-    <div class="author"><a href='https://robinbinluo.github.io/'>Bin Luo</a>, Yuwen Huang, Jonathan Allcock, Xiaojun Lin, Shengyu Zhang, John C.S. Lui</div>
+    <div class="author"><a href='https://robinbinluo.github.io/'><strong>Bin Luo</strong></a>, Yuwen Huang, Jonathan Allcock, Xiaojun Lin, Shengyu Zhang, John C.S. Lui</div>
     <div class="periodical"><em>Forty-second International Conference on Machine Learning (ICML), 2025. (AR: 3260/12107=26.9%). </em></div>
     <div class="links">
     <a href="assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -69,7 +69,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11044695">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
-    <div class="author"><a href='https://robinbinluo.github.io/'>Bin Luo</a>, Xiaojun Lin, John C.S. Lui</div>
+    <div class="author"><a href='https://robinbinluo.github.io/'><strong>Bin Luo</strong></a>, Xiaojun Lin, John C.S. Lui</div>
     <div class="periodical"><em>IEEE Conference on Computer Communications (INFOCOM), 2025. (AR: 272/1458=18.6%).</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044695" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -96,7 +96,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202203&filename=CN115019106A&uniplatform=OVERSEA&v=HP_3V8a2PGID6MUCfbWUTpnm1CEq2y2CPJ-mQJRBKAKAG0kllmoPh-FPNt_dKYWl">Robust Source-free Domain Adaptation from Non-robust Source Model</a></div>
-    <div class="author">Yao Xiao, <a href='https://robinbinluo.github.io/'>Bin Luo</a>, Yuheng Chen, Pengxu Wei, Liang Lin</div>
+    <div class="author">Yao Xiao, <a href='https://robinbinluo.github.io/'><strong>Bin Luo</strong></a>, Yuheng Chen, Pengxu Wei, Liang Lin</div>
     <div class="periodical"><em>National Invention Patent<strong>(CN115019106A)</strong>, Sept. 2022.</em></div>
     <div class="links">
     <a href="http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202203&filename=CN115019106A&uniplatform=OVERSEA&v=HP_3V8a2PGID6MUCfbWUTpnm1CEq2y2CPJ-mQJRBKAKAG0kllmoPh-FPNt_dKYWl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
