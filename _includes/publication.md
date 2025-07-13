@@ -72,7 +72,7 @@
     <div class="author"><strong>Bin Luo</strong>, Xiaojun Lin, John C.S. Lui</div>
     <div class="periodical"><em>IEEE Conference on Computer Communications (INFOCOM), 2025. (AR: 272/1458=18.6%).</em></div>
     <div class="links">
-    <a href="assets/files/quantum_switch-INFOCOM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044695" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="assets/files/Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch.pptx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PPT</a>
     <!-- <strong><i style="color:#702A9D">CCF A</i></strong> -->
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
