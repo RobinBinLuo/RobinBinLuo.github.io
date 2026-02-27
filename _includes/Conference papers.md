@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Conference Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -27,34 +27,6 @@
   </div>
 </div>
 </li> -->
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Cover Picture for ToN.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ToN</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Structural Property of the Optimal Entanglement Policy for Quantum Network Switch: An MDP Approach</div>
-    <div class="author"><strong>Bin Luo</strong>, Xiaojun Lin, John C.S. Lui</div>
-    <div class="periodical"><em>To appear in the IEEE/ACM Transactions on Networking (ToN)</em></div>
-    <!-- <div class="links">
-    <a href="assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="assets/files/ICML_2025_Quantum_Algorithms_for_Finite_horizon_Markov_Decision_Processes (3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PPT</a>
-    <a href="assets/files/ICML 2025 poster-v3.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-    <a href="http://arxiv.org/abs/2508.05712" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a> -->
-    <!-- <strong><i style="color:#702A9D">CCF A</i></strong> -->
-      <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
 
 
 <li>
@@ -139,29 +111,7 @@
 </li>
 
 
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
-    <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
 
 </ol>
 </div>
+
