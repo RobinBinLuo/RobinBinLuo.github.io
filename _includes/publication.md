@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 5px;">Publications</h2>
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Conference Papers</h2>
+<h3 id="publications" style="margin: 2px 0px -20px;">Conference Papers</h3>
 
 <div class="publications">
 <ol class="bibliography">
@@ -119,7 +119,7 @@
 
 
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Journal Papers</h2>
+<h3 id="publications" style="margin: 2px 0px -15px;">Journal Papers</h3>
 
 <div class="publications">
 <ol class="bibliography">
