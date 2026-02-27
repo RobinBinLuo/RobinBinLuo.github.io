@@ -1,7 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px 5px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 10px;">Publications</h2>
 
 <!-- <h3 id="publications" style="margin: 10px 0px -20px;">◦ Conference Papers</h3> -->
-<h3 id="publications" style="margin: 10px 0px -20px;">Conference Papers</h3>
+<h3 id="publications" style="margin: 10px 0px -20px; color: inherit;">Conference Papers</h3>
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -119,7 +120,7 @@
 
 
 
-<h3 id="publications" style="margin: 2px 0px -15px;">Journal Papers</h3>
+<h3 id="publications" style="margin: 2px 0px -15px; color: inherit;">Journal Papers</h3>
 
 <div class="publications">
 <ol class="bibliography">
@@ -128,7 +129,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Cover Picture for ToN.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ToN cover.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ToN'26</abbr>
   </div>
 
