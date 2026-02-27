@@ -1,5 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+
 ## Conference Papers
 
 <div class="publications">
@@ -113,15 +114,23 @@
 </li>
 
 
+
+</ol>
+</div>
+
+
+
 ## Journal Papers
 
+<div class="publications">
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Cover Picture for ToN.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ToN</abbr>
+    <abbr class="badge">ToN'26</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -148,4 +157,3 @@
 
 </ol>
 </div>
-
