@@ -18,9 +18,10 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 
 
 ## Selected Awards/Grants
-- **[Dec. 2025]** <a href="https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_5891dcb9fbd64d8ba7e68427ebbba789.html" target="_blank">中国科协青年科技人才培育工程博士生专项计划</a> sponsored by 中国科技发展基金会
+- **[Dec. 2025]** <a href="https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_5891dcb9fbd64d8ba7e68427ebbba789.html" target="_blank">China Association for Science and Technology Young Science & Technology Talent Training Program – Doctoral Fellowship (中国科协青年科技人才培育工程博士生专项计划)</a> sponsored by the China Science and Technology Development Foundation (中国科技发展基金会)
 - **[March. 2025]** <a href="https://infocom2025.ieee-infocom.org/authors/student-travel-grant" target="_blank">Type-A Student Travel Grant of IEEE INFOCOM</a> sponsored by IEEE Communication Society (ComSoc)
 - **[June. 2023]** Sun Yat-sen University Outstanding Undergraduate Thesis Award (Top 10%)
+
 <!-- - **[Feb. 2021]** Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world)
 - **[June. 2021]** SYSU Outstanding Student First Class Scholarship (Top 5%)
 - **[June. 2020, 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%) -->
@@ -28,7 +29,6 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 ## Services
 ### Reviewer
 *Peer review contributions to conferences and journals.*
-
 - **Conference Reviewer**
   - International Conference on Machine Learning (ICML), 2026
   - International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026
@@ -38,7 +38,6 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 
 ### Teaching Assistantship
 *Assisted in teaching undergraduate and graduate courses at CUHK.*
-
 - **2023–2024**
   - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank">Dr. Yim Pan Chui</a>)
   - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ktlam/" target="_blank">Dr. King Tin Lam</a>)
