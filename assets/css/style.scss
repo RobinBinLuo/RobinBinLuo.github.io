@@ -7,23 +7,24 @@
 nav.toc {
   position: fixed;
   right: 20px;
-  top: 120px;
-  width: 220px;
-  max-height: 70vh;
+  top: 80px;
+  width: 180px;
+  max-height: calc(100vh - 100px);
   overflow-y: auto;
-  background-color: #f9f9f9;
-  border: 1px solid #e5e5e5;
-  border-radius: 5px;
-  padding: 15px;
-  font-size: 14px;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  font-size: 13px;
   z-index: 100;
 }
 
 nav.toc h3 {
-  margin: 0 0 15px 0;
-  font-size: 15px;
+  margin: 0 0 12px 0;
+  font-size: 14px;
   font-weight: 600;
   color: #333;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #57068c;
 }
 
 nav.toc ul {
@@ -33,48 +34,44 @@ nav.toc ul {
 }
 
 nav.toc li {
-  margin: 8px 0;
+  margin: 6px 0;
   padding-left: 0;
 }
 
 nav.toc li.toc-h3 {
-  margin-left: 15px;
+  margin-left: 12px;
 }
 
 nav.toc a {
   color: #57068c;
   text-decoration: none;
   display: block;
-  padding: 5px 0;
-  border-left: 3px solid transparent;
-  padding-left: 8px;
-  transition: all 0.2s ease;
+  padding: 4px 0;
+  border-left: 2px solid transparent;
+  padding-left: 6px;
+  transition: all 0.15s ease;
+  word-wrap: break-word;
 }
 
 nav.toc a:hover {
   color: #333;
   border-left-color: #57068c;
-  background-color: #f0f0f0;
+  font-weight: 500;
 }
 
 /* Dark mode support */
 @media (prefers-color-scheme: dark) {
-  nav.toc {
-    background-color: #2a2a2a;
-    border-color: #444;
-  }
-  
   nav.toc h3 {
     color: #e0e0e0;
+    border-bottom-color: #b8b8b8;
   }
   
   nav.toc a {
-    color: #b8b8b8;
+    color: #a8d8ff;
   }
   
   nav.toc a:hover {
     color: #e0e0e0;
-    background-color: #3a3a3a;
   }
 }
 
