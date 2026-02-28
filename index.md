@@ -17,13 +17,36 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 {% include_relative _includes/talks.md %}
 
 
-## Awards/Grants
+## Selected Awards/Grants
+- **[Dec. 2025]** <a href="https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_5891dcb9fbd64d8ba7e68427ebbba789.html" target="_blank">中国科协青年科技人才培育工程博士生专项计划</a> sponsored by 中国科技发展基金会
 - **[March. 2025]** <a href="https://infocom2025.ieee-infocom.org/authors/student-travel-grant" target="_blank">Type-A Student Travel Grant of IEEE INFOCOM</a> sponsored by IEEE Communication Society (ComSoc)
 - **[June. 2023]** Sun Yat-sen University Outstanding Undergraduate Thesis Award (Top 10%)
-- **[Feb. 2021]** Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world)
+<!-- - **[Feb. 2021]** Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world)
 - **[June. 2021]** SYSU Outstanding Student First Class Scholarship (Top 5%)
-- **[June. 2020, 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%)
+- **[June. 2020, 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%) -->
 
+## Services
+### Reviewer
+*Peer review contributions to conferences and journals.*
+
+- **Conference Reviewer**
+  - International Conference on Machine Learning (ICML), 2026
+  - International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026
+  - IEEE International Conference on Communications (ICC), 2026
+- **Journal Reviewer**
+  - IEEE/ACM Transactions on Networking (ToN)
+
+### Teaching Assistantship
+*Assisted in teaching undergraduate and graduate courses at CUHK.*
+
+- **2023–2024**
+  - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank">Dr. Yim Pan Chui</a>)
+  - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ktlam/" target="_blank">Dr. King Tin Lam</a>)
+- **2024–2025**
+  - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank">Dr. Yim Pan Chui</a>)
+  - CUHK CSCI 5370: <a href="https://xiao-liang.github.io/Resources/Courses/CSCI5370-Spring25/CSCI5370-Spring25.html" target="_blank">*Quantum Computing*</a> (<a href="https://xiao-liang.github.io/" target="_blank">Prof. Xiao Liang</a>)
+- **2025–2026**
+  - CUHK CSCI 2040: *Introduction to Python* (<a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank">Dr. Yim Pan Chui</a>)
 
 ## Wiki
 - **Online Courses**
@@ -49,10 +72,3 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 - **Research Skills**
     - <a href="https://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html" target="_blank">Graduate Study In the Computer and Mathematical Sciences: A Survival Manual</a> by <a href="https://www.cs.umd.edu/~oleary/" target="_blank">Dianne Prost O'Leary, Raymond</a>
 
-## Teaching Assistantship
-- 2023-2024
-    - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank"> Dr. CHUI, Yim Pan </a> 
-    - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ktlam/" target="_blank"> Dr. LAM, King Tin </a> 
-- 2024-2025
-    - CUHK CSCI 2040: *Introduction of Python* led by <a href="https://www.cse.cuhk.edu.hk/~ypchui/" target="_blank"> Dr. CHUI, Yim Pan </a> 
-    - CUHK CSCI 5370: <a href="https://xiao-liang.github.io/Resources/Courses/CSCI5370-Spring25/CSCI5370-Spring25.html" target="_blank"> *Quantum Computing* </a> led by <a href="https://xiao-liang.github.io/" target="_blank"> Prof. Xiao Liang </a> 
