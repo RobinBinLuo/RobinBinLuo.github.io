@@ -2,3 +2,85 @@
 ---
 
 @import "minimal-light";
+
+/* Table of Contents Styling */
+nav.toc {
+  position: fixed;
+  right: 20px;
+  top: 120px;
+  width: 220px;
+  max-height: 70vh;
+  overflow-y: auto;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 14px;
+  z-index: 100;
+}
+
+nav.toc h3 {
+  margin: 0 0 15px 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+nav.toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav.toc li {
+  margin: 8px 0;
+  padding-left: 0;
+}
+
+nav.toc li.toc-h3 {
+  margin-left: 15px;
+}
+
+nav.toc a {
+  color: #57068c;
+  text-decoration: none;
+  display: block;
+  padding: 5px 0;
+  border-left: 3px solid transparent;
+  padding-left: 8px;
+  transition: all 0.2s ease;
+}
+
+nav.toc a:hover {
+  color: #333;
+  border-left-color: #57068c;
+  background-color: #f0f0f0;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  nav.toc {
+    background-color: #2a2a2a;
+    border-color: #444;
+  }
+  
+  nav.toc h3 {
+    color: #e0e0e0;
+  }
+  
+  nav.toc a {
+    color: #b8b8b8;
+  }
+  
+  nav.toc a:hover {
+    color: #e0e0e0;
+    background-color: #3a3a3a;
+  }
+}
+
+/* Responsive - hide TOC on smaller screens */
+@media (max-width: 1200px) {
+  nav.toc {
+    display: none;
+  }
+}

@@ -125,6 +125,10 @@
       <br>
 
     </header>
+    <nav id="table-of-contents" class="toc">
+      <h3>目录</h3>
+      <ul id="toc-list"></ul>
+    </nav>
     <section>
 
       {{ content }}
@@ -154,6 +158,35 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+  <script>
+    // Generate Table of Contents
+    document.addEventListener('DOMContentLoaded', function() {
+      const section = document.querySelector('section');
+      const headings = section.querySelectorAll('h2, h3');
+      const tocList = document.getElementById('toc-list');
+      
+      headings.forEach((heading, index) => {
+        // Add ID to heading if it doesn't have one
+        if (!heading.id) {
+          heading.id = 'heading-' + index;
+        }
+        
+        // Create TOC item
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#' + heading.id;
+        a.textContent = heading.textContent;
+        
+        // Add class based on heading level for indentation
+        if (heading.tagName === 'H3') {
+          li.className = 'toc-h3';
+        }
+        
+        li.appendChild(a);
+        tocList.appendChild(li);
+      });
+    });
+  </script>
 </body>
 
 </html>
