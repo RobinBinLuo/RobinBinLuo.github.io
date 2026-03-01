@@ -6,7 +6,7 @@
 /* Table of Contents Styling */
 nav.toc {
   position: fixed;
-  right: 60px;
+  right: calc((100vw - 960px) / 2 - 20px);
   top: 60px;
   width: 180px;
   max-height: calc(100vh - 100px);
