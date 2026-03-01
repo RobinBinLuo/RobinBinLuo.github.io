@@ -27,7 +27,7 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 - **[June. 2020, 2022]** SYSU Outstanding Student Second Class Scholarship (Top 10%) -->
 
 ## Internship
-- **[Feb. 2026 - Oct. 2026]** Research Internship in Tencent Quantum Lab, mentored by <a href="https://www.cse.cuhk.edu.hk/~syzhang/">Dr. Shengyu Zhang</a> and <a href="https://scholar.google.com/citations?user=SB24D6gAAAAJ&hl=en">Dr. Jonathan Allcock</a>.
+- **[Feb. 2026 - Oct. 2026]** Research Internship in Tencent Quantum Lab, mentored by <a href="https://www.cse.cuhk.edu.hk/~syzhang/" target="_blank">Dr. Shengyu Zhang</a> and <a href="https://scholar.google.com/citations?user=SB24D6gAAAAJ&hl=en" target="_blank">Dr. Jonathan Allcock</a>.
 
 ## Services
 ### Peer Review Contributions
