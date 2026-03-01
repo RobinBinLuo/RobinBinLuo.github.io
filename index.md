@@ -29,7 +29,7 @@ Prior to joining the Ph.D. program, I received my bachelor's degree in June 2023
 ## Internship
 - **[Feb. 2026 - Oct. 2026]** Research Internship in Tencent Quantum Lab, mentored by <a href="https://www.cse.cuhk.edu.hk/~syzhang/" target="_blank">Dr. Shengyu Zhang</a> and <a href="https://scholar.google.com/citations?user=SB24D6gAAAAJ&hl=en" target="_blank">Dr. Jonathan Allcock</a>.
 
-## Services
+## Professional Services
 ### Peer Review Contributions
 <!-- *Peer review contributions to conferences and journals.* -->
 - **Conference Reviewer**
