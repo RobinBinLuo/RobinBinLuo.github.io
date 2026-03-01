@@ -1,8 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 10px;">Publications</h2>
 
 <!-- <h3 id="publications" style="margin: 10px 0px -20px;">◦ Conference Papers</h3> -->
-<!-- <h3 id="publications" style="margin: 10px 0px -20px; color: inherit;">Conference Papers</h3> -->
-### Conference Papers
+<h3 id="publications" style="margin: 10px 0px -15px;">Conference Papers</h3>
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -94,10 +94,8 @@
 </div>
 
 
+ <h3 id="publications" style="margin: 2px 0px -15px;">Journal Papers</h3>
 
-<!-- <h3 id="publications" style="margin: 2px 0px -15px; color: inherit;">Journal Papers</h3>
- -->
-### Journal Papers
 <div class="publications">
 <ol class="bibliography">
 
@@ -137,8 +135,8 @@
 
 
 
-<!-- <h3 id="publications" style="margin: 2px 0px -15px; color: inherit;">Patents</h3> -->
-### Patents
+<h3 id="publications" style="margin: 2px 0px -15px;">Patents</h3>
+
 <div class="publications">
 <ol class="bibliography">
 
