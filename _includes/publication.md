@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px 25px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
 
 <!-- <h3 id="publications" style="margin: 10px 0px -20px;">◦ Conference Papers</h3> -->
 <!-- <h3 id="publications" style="margin: 10px 0px -20px; color: inherit;">Conference Papers</h3> -->
