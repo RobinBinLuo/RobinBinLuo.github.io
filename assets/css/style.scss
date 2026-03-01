@@ -6,9 +6,9 @@
 /* Table of Contents Styling */
 nav.toc {
   position: fixed;
-  right: calc((100vw - 960px) / 2 + 20px);
+  right: 80px;
   top: 60px;
-  width: 160px;
+  width: 180px;
   max-height: calc(100vh - 100px);
   overflow-y: auto;
   background-color: transparent;
