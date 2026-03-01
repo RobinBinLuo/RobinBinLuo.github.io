@@ -6,24 +6,24 @@
 /* Table of Contents Styling */
 nav.toc {
   position: fixed;
-  right: 200px;
+  right: calc((100vw - 960px) / 2 + 20px);
   top: 60px;
-  width: 180px;
+  width: 160px;
   max-height: calc(100vh - 100px);
   overflow-y: auto;
   background-color: transparent;
   border: none;
   padding: 0;
-  font-size: 14px;
+  font-size: 15px;
   z-index: 100;
 }
 
 nav.toc h3 {
-  margin: 0 0 12px 0;
-  font-size: 14px;
-  font-weight: 600;
+  margin: 0 0 8px 0;
+  font-size: 15px;
+  font-weight: 700;
   color: #333;
-  padding-bottom: 8px;
+  padding-bottom: 6px;
   border-bottom: 2px solid #57068c;
 }
 
@@ -34,19 +34,28 @@ nav.toc ul {
 }
 
 nav.toc li {
-  margin: 6px 0;
+  margin: 3px 0;
   padding-left: 0;
+  font-size: 14px;
+  line-height: 1.3;
 }
 
 nav.toc li.toc-h3 {
   margin-left: 12px;
 }
 
+nav.toc li.toc-h3::before {
+  content: "◦ ";
+  color: #57068c;
+  font-weight: bold;
+  margin-right: 4px;
+}
+
 nav.toc a {
   color: #57068c;
   text-decoration: none;
   display: block;
-  padding: 4px 0;
+  padding: 2px 0;
   border-left: 2px solid transparent;
   padding-left: 6px;
   transition: all 0.15s ease;
