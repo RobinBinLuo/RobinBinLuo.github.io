@@ -41,7 +41,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href='assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf'>Quantum Algorithms for Finite-horizon Markov Decision Processes</a></div>
+    <div class="title"><a href="https://proceedings.mlr.press/v267/luo25e.html" target="_blank">Quantum Algorithms for Finite-horizon Markov Decision Processes</a></div>
     <div class="author"><strong>Bin Luo</strong>, Yuwen Huang, Jonathan Allcock, Xiaojun Lin, Shengyu Zhang, John C.S. Lui</div>
     <div class="periodical"><em>Forty-second International Conference on Machine Learning (ICML), 2025. (AR: 3260/12107=26.9%). </em></div>
     <div class="links">
@@ -71,7 +71,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11044695">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11044695" target="_blank">Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch</a></div>
     <div class="author"><strong>Bin Luo</strong>, Xiaojun Lin, John C.S. Lui</div>
     <div class="periodical"><em>IEEE Conference on Computer Communications (INFOCOM), 2025. (AR: 272/1458=18.6%).</em></div>
     <div class="links">
@@ -108,21 +108,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Structural Property of the Optimal Entanglement Policy for Quantum Network Switch: An MDP Approach</div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11420954" target="_blank">Structural Property of the Optimal Entanglement Policy for Quantum Network Switch: An MDP Approach</a></div>
     <div class="author"><strong>Bin Luo</strong>, Xiaojun Lin, John C.S. Lui</div>
     <div class="periodical"><em>IEEE/ACM Transactions on Networking (ToN), 2026</em></div>
-    <!-- <div class="links">
-    <a href="assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="assets/files/ICML_2025_Quantum_Algorithms_for_Finite_horizon_Markov_Decision_Processes (3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PPT</a>
-    <a href="assets/files/ICML 2025 poster-v3.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-    <a href="http://arxiv.org/abs/2508.05712" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a> -->
-    <!-- <strong><i style="color:#702A9D">CCF A</i></strong> -->
-      <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
-    <!-- </div> -->
+   <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/11420954" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
+    </div>
   </div>
 </div>
 </li>
