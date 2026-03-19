@@ -44,8 +44,7 @@
     <!-- <div class="periodical"><em>To appear in 24rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt) </em></div> -->
     <div class="links">
     <a href="https://arxiv.org/abs/2603.07673" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-  </div> 
-  </div>
+    </div> 
 </div>
 </li>
 
@@ -64,7 +63,6 @@
     <!-- <div class="links">
     <a href="assets/files/Quantum_Algorithm_for_Finite_Horizon_MDP_icml2025-2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   </div> -->
-  </div>
 </div>
 </li>
 
@@ -124,7 +122,6 @@
   </div>
 </div>
 </li>
-
 
 
 </ol>
